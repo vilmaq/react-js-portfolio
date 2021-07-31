@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "Samplify",
-    subtitle: "",
+    subtitle: "Y",
     description: "",
     image: "./portfolio-1.jpg",
     link: "https://github.com/Leon3005/samplify-uk",
@@ -9,7 +9,8 @@ export const projects = [
   {
     title: "Weather Dashboard",
     subtitle: "",
-    description: "",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./portfolio-2.jpg",
     link: "https://github.com/vilmaq/weather-app",
   },
@@ -25,7 +26,7 @@ export const projects = [
     subtitle: "React Hooks",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
+    image: "./portfolio-4.jpg",
     link: "https://reactbootcamp.com",
   },
 ];
