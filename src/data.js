@@ -1,27 +1,24 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    title: "Samplify",
+    subtitle: "",
+    description: "",
+    image: "./portfolio-1.jpg",
+    link: "https://github.com/Leon3005/samplify-uk",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    title: "Weather Dashboard",
+    subtitle: "",
+    description: "",
+    image: "./portfolio-2.jpg",
+    link: "https://github.com/vilmaq/weather-app",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    title: "Team HTML Generator",
+    subtitle: "",
+    description: "",
+    image: "./portfolio-3.jpg",
+    link: "https://github.com/vilmaq/team-html-generator",
   },
   {
     title: "Epic Todo App",
