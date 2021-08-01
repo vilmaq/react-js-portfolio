@@ -9,11 +9,11 @@ const About = () => {
             Vilma Qerama{" "}
           </h1>
           {/* <br className="hidden lg:inline-block" /> */}
-          <h4 className="title-font sm:text-2xl text-1xl mb-4 text-white">
+          <h4 className="title-font sm:text-2xl text-1xl mb-4 text-white justify-center">
             Epistemophilic & Thalassophile{" "}
           </h4>
 
-          <p className="mb-8 leading-relaxed">
+          <p className="mb-8 leading-relaxed text-white justify-center">
             Experienced Professional Services with a demonstrated history of
             working in the Computer Software industry. Skilled in Databases,
             .Net, Virtualization, Software Project Management, Robotic Process
