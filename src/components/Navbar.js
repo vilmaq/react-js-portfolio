@@ -1,8 +1,8 @@
 import React from "react";
 
-export default function Navbar() {
+const Navbar = () => {
   return (
-    <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700	flex flex-wrap items-center text-base justify-center">
+    <nav className="sticky md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700	flex flex-wrap items-center text-base justify-center">
       <a href="#portfolio" className="mr-5 hover:text-white">
         Portfolio
       </a>
@@ -17,4 +17,6 @@ export default function Navbar() {
       </a>
     </nav>
   );
-}
+};
+
+export default Navbar;

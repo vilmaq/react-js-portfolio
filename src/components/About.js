@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function About() {
+const About = () => {
   return (
     <section id="about">
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
@@ -27,7 +27,7 @@ export default function About() {
             and exploring the latest technology advancements.
           </p>
           <div className="flex justify-center">
-            <a
+            {/* <a
               href="#contact"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg"
             >
@@ -36,7 +36,7 @@ export default function About() {
             <a
               href="#projects"
               className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
-            ></a>
+            ></a> */}
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
@@ -49,4 +49,6 @@ export default function About() {
       </div>
     </section>
   );
-}
+};
+
+export default About;

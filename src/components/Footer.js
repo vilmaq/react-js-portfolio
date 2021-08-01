@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Footer() {
+const Footer = () => {
   return (
     <footer className="h-20 bg-yellow-400 width: 100%">
       <div
@@ -27,7 +27,7 @@ export default function Footer() {
               className="text-white underline text-small"
               href="https://www.linkedin.com/in/vilmaqerama/"
             >
-              <i class="fab fa-linkedin-in fa-3x"></i>
+              <i className="fab fa-linkedin-in fa-3x"></i>
             </a>
           </li>
           <li
@@ -38,11 +38,12 @@ export default function Footer() {
               className="text-white underline text-small"
               href="https://twitter.com/V174A"
             >
-              <i class="fab fa-twitter fa-3x"></i>
+              <i className="fab fa-twitter fa-3x"></i>
             </a>
           </li>
         </ul>
       </div>
     </footer>
   );
-}
+};
+export default Footer;
