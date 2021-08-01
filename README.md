@@ -16,27 +16,27 @@ Portfolio
 
 Folder & Files organisation as follows:
 
-├── README.md
-├── node_modules
-├── package.json
-├── .gitignore
-├── public
-│ ├── favicon.ico
-│ ├── index.html
-│ └── manifest.json
-└── src
-├── App.js
-├── data.js
-├── index.css
-├── index.js
-└── components
-├── About.js
-├── Contact.js
-├── Navbar.js
-├── CV.js
-├── Portfolio.js
-└── Contact.js
-└── Footer.js
+|── README.md <br>
+├── node_modules <br>
+├── package.json<br>
+├── .gitignore<br>
+├── public<br>
+│ ├── favicon.ico<br>
+│ ├── index.html<br>
+│ └── manifest.json<br>
+└── src<br>
+├── App.js<br>
+├── data.js<br>
+├── index.css<br>
+├── index.js<br>
+└── components<br>
+├── About.js<br>
+├── Contact.js<br>
+├── Navbar.js<br>
+├── CV.js <br>
+├── Portfolio.js<br>
+└── Contact.js<br>
+└── Footer.js<br>
 
 ## Table of Contents
 
@@ -49,7 +49,6 @@ Folder & Files organisation as follows:
   - [Printscreens](#printscreens)
   - [Links](#links)
   - [Read more](#read-more)
-  -
 
 ## Technologies used
 
