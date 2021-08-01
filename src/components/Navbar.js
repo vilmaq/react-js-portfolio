@@ -6,12 +6,12 @@ export default function Navbar() {
       <a href="#portfolio" className="mr-5 hover:text-white">
         Portfolio
       </a>
-      <a href="#skills" className="mr-5 hover:text-white">
+      {/* <a href="#skills" className="mr-5 hover:text-white">
         Skills
       </a>
       <a href="#education" className="mr-5 hover:text-white">
         Education
-      </a>
+      </a> */}
       <a href="#contact" className="mr-5 hover:text-white">
         Contact
       </a>

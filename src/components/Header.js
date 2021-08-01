@@ -12,7 +12,8 @@ export default function Header({ children }) {
         </a>
         {children}
         <a
-          href="#contact"
+          href="./docs/CV_VilmaQ.pdf"
+          download
           className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0"
         >
           CV
